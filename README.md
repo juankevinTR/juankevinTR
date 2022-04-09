@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Juan Kevin Trujillo</h1>
 <h3 align="center">A software engineer and private pilot student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juankevintr&label=Profile%20views&color=0e75b6&style=flat" alt="juankevintr" /> </p>
-
 <p align="left"> <a href="https://twitter.com/juankevintr" target="blank"><img src="https://img.shields.io/twitter/follow/juankevintr?logo=twitter&style=for-the-badge" alt="juankevintr" /></a> </p>
 
 - 🌱 I’m currently learning **Swift**
