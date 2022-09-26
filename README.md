@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/juankevintr" target="blank"><img src="https://img.shields.io/twitter/follow/juankevintr?logo=twitter&style=for-the-badge" alt="juankevintr" /></a> </p>
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **Swift** and **Android with Kotlin**
 
 - 📫 How to reach me **[Click-me](https://linkedin.com/in/juankevintrujillo)**
 
