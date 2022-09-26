@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Swift**
 
-- 📫 How to reach me **[LinkedIn](https://linkedin.com/in/juankevintrujillo)**
+- 📫 How to reach me **[Click-me](https://linkedin.com/in/juankevintrujillo)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
