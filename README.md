@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **juankevinTR/juankevinTR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm Juan Kevin Trujillo 👋
+
+iOS Developer • Swift • UIKit • Objective-C
+
+Private Pilot PPL(A)
+
+Interested in mobile development, fintech, payments and aviation technology.
